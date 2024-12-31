@@ -67,3 +67,4 @@ def number_to_words(num):
             return ten_part
         else:
             return f"{ten_part} {unit_part}"
+
